@@ -1,0 +1,30 @@
+.header{
+    background-color: greenyellow;
+    height: 22vh;
+    padding-left: 2%;
+}
+main{
+    display: flex;
+    height: 60vh;
+}
+.Article1{
+    width: 60%;
+    padding-left: 2%;
+}
+.Article2{
+    background-color: bisque;
+    width: 20%;
+    padding-left: 2%;
+}
+.Nav{
+    background-color: rgba(184, 135, 11, 0.769);
+    width: 20%;
+    padding-left: 2%;
+    
+}footer{
+    background-color: greenyellow;
+    height: 24vh;
+    padding-left: 2%;
+}
+
+
